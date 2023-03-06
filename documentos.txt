@@ -1,10 +1,10 @@
 [1] - A Decoupled Learning Strategy for Massive Access optimization in cellular IoT networks.pdf
-[2] - A Review on Machine Learning and Deep Learning Perspectives of IDS.pdf
-[3] - A Survey on Architecture, Protocols and Challenges in IoT.pdf
-[4] - A Survey on Internet of Things Architecture, enabling technologies, security andprivacy and applications.pdf
-[5] - A Three Layered Decentralized IoT Biometric Architecture for City Lockdown During COVID-19 Outbreak.pdf
-[6] - Ahammad2021 Article Software DefinedDewRoofFogAndC.pdf
-[7] - 
-[8] - 
-[9] - 
-[10] -
+[2] - A Review on Machine Learning and Deep Learning Perspectives of IDS
+[3] - A Survey on Architecture, Protocols and Challenges in IoT.
+[4] - A Survey on Internet of Things Architecture, enabling technologies, security andprivacy and applications
+[5] - A Three Layered Decentralized IoT Biometric Architecture for City Lockdown During COVID-19 Outbreak
+[6] - Ahammad2021 Article Software DefinedDewRoofFogAndC
+[7] - Ahmed-Kannan2021_Article_SecureEndToEndCommunicationsAn
+[8] - An Efficient Forensics Architecture in Software-Defined Networking-IoT Using Blockchain Technology
+[9] - An Intelligent Communication Warning Vulnerability Detection Algorithm Based on IoT Technology
+[10] - An Intelligent IoT-Based System Design for Controlling and Monitoring Greenhouse Temperature
