@@ -1,2 +1,6 @@
-JSAC.2020.3018806
-skdalksjdhkjashdkjas
+[1] - A Decoupled Learning Strategy for Massive Access optimization in cellular IoT networks.pdf
+[2] - A Review on Machine Learning and Deep Learning Perspectives of IDS.pdf
+[3] - A Survey on Architecture, Protocols and Challenges in IoT.pdf
+[4] - A Survey on Internet of Things Architecture, enabling technologies, security andprivacy and applications.pdf
+[5] - A Three Layered Decentralized IoT Biometric Architecture for City Lockdown During COVID-19 Outbreak.pdf
+[6] - Ahammad2021 Article Software DefinedDewRoofFogAndC.pdf
