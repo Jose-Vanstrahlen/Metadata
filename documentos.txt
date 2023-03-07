@@ -1,6 +1,6 @@
 [1] - A Decoupled Learning Strategy for Massive Access optimization in cellular IoT networks.pdf
 [2] - A Review on Machine Learning and Deep Learning Perspectives of IDS
-[3] - A Survey on Architecture, Protocols and Challenges in IoT.
+[3] - A Survey on Architecture, Protocols and Challenges in IoT
 [4] - A Survey on Internet of Things Architecture, enabling technologies, security andprivacy and applications
 [5] - A Three Layered Decentralized IoT Biometric Architecture for City Lockdown During COVID-19 Outbreak
 [6] - Ahammad2021 Article Software DefinedDewRoofFogAndC
@@ -8,3 +8,44 @@
 [8] - An Efficient Forensics Architecture in Software-Defined Networking-IoT Using Blockchain Technology
 [9] - An Intelligent Communication Warning Vulnerability Detection Algorithm Based on IoT Technology
 [10] - An Intelligent IoT-Based System Design for Controlling and Monitoring Greenhouse Temperature
+[11] - An Intelligent System for Video Surveillance in IoT Environments
+[12] - An IoT Unified Access Platform for Heterogeneity Sensing Devices Based on Edge Computing
+[13] - An IoT-Based Traceability System for Greenhouse Seedling Crops
+[14] - An IoT-Enabled Stroke Rehabilitation System Based on Smart Wearable Armband and Machine Learning
+[15] - An Ultra Low Power Personalizable Wrist Worn ECG Monitor Integrated With IoT Infrastructure
+
+[16] - Application of the Internet of Things through a Network of Wireless Sensors in a Coffee Crop for Monitoring and    Control its Environmental Variables
+[17] - Authentication of Remote IoT Users Based on Deeper Gait Analysis of Sensor Data
+[18] - Big Data Management and Analytics Metamodel for IoT-Enabled Smart Building
+[19] - Blockchain technology in IoT systems current trends, methodology
+[20] - Blockchain-Based Transaction Validation Protocol for a Secure Distributed IoT Network
+[21] - Capturing-The-Invisible (CTI) Behavior-Based Attacks Recognition in IoT-Oriented Industrial Control Systems
+[22] - Ciphertext-Policy Hierarchical Attribute-Based Encryption Against Key-Delegation Abuse for IoT-Connected Healthcare 
+[23] - Collaboration IoT-Based RBAC with Trust Evaluation Algorithm Model
+[24] - Data-Driven Logical Topology Inference for Managing Safety and Re-Identification of Patients Through Cameras IoT
+[25] - Design of an Internet of Things Environment Based on a Photovoltaic Panel Controller for the Massive Use of Solar Electric Energy in Urban Areas
+[26] - 
+[27] - 
+[28] - 
+[29] - 
+[30] - 
+[31] - 
+[32] - 
+[33] - 
+[34] - 
+[35] - 
+[36] - 
+[37] - 
+[38] - 
+[39] - 
+[40] - 
+[41] - 
+[42] - 
+[43] - 
+[44] - 
+[45] - 
+[46] - 
+[47] - 
+[48] - 
+[49] - 
+[50] - 
