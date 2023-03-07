@@ -18,7 +18,7 @@
 [18] Big Data Management and Analytics Metamodel for IoT-Enabled Smart Buildings
 [19] Blockchain technology in IoT systems current trends, methodology
 [20] Blockchain-Based Transaction Validation Protocol for a Secure Distributed IoT Network
-___________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 [21] Capturing-The-Invisible (CTI) Behavior-Based Attacks Recognition in IoT-Oriented Industrial Control Systems
 [22] Ciphertext-Policy Hierarchical Attribute-Based Encryption Against Key-Delegation Abuse for IoT-Connected Healthcare System
 [23] Collaboration IoT-Based RBAC with Trust Evaluation Algorithm Model
@@ -39,7 +39,7 @@ ________________________________________________________________________________
 [38] Fault-Tolerant mHealth Framework in the Context of IoT-Based Real-Time Wearable Health Data Sensors
 [39] Fingerprint Recognition Strategies Based on a Fuzzy Commitment for Cloud-Assisted IoT A Minutiae-Based Sector Coding Approach
 [40] FishTalk An IoT-Based Mini Aquarium System
-___________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 [41] Industrial IoT based Condition Monitoring for wind energy conversion system
 [42] Intelligent Design of Electrical Training Room in Higher Vocational colleges based on internet of things technology
 [43] Internet of Things (IoT), Applications and Challenges
@@ -60,7 +60,7 @@ ________________________________________________________________________________
 [58] Joint Coding and Adaptive Image Transmission Scheme Based on DP-LDPC Codes for IoT Scenarios
 [59] Joint Multioperator Virtual Network Sharing and Caching in Energy Harvesting-Aided Environmental Internet of Things
 [60] Kandasamy2020_Article_IoTCyberRiskAHolisticAnalysisO.pdf
-___________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 [61] Low-Overhead Remote User Authentication Protocol for IoT Based on a Fuzzy Extractor and Feature Extraction.pdf
 [62] M2M system for efficient water consumption in sanitary services based on intelligent environment
 [63] Machine learning and data analytics for the IoT
@@ -81,7 +81,7 @@ ________________________________________________________________________________
 [78] Real-Virtual World Device Synchronization in a Cloud-Enabled Social Virtual Reality IoT Network
 [79] Research on Data Sharing Architecture for Ecological Monitoring Using Iot Streaming Data
 [80] Research_on_the_Intelligent_Information_System_for_the_Multimedia_Teaching_Equipment_Management
-___________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 [81] Scalable and Secure Big Data IoT System Based on Multifactor Authentication and Lightweight Cryptography
 [82] Script IoT A Script Framework for and Internet of things application
 [83] SDN and Virtualization Solutions for the Internet of Things A Survey
