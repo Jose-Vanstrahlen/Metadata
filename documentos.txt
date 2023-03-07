@@ -1,52 +1,98 @@
-[1] - A Decoupled Learning Strategy for Massive Access optimization in cellular IoT networks.pdf
-[2] - A Review on Machine Learning and Deep Learning Perspectives of IDS
-[3] - A Survey on Architecture, Protocols and Challenges in IoT
-[4] - A Survey on Internet of Things Architecture, enabling technologies, security andprivacy and applications
-[5] - A Three Layered Decentralized IoT Biometric Architecture for City Lockdown During COVID-19 Outbreak
-[6] - Ahammad2021 Article Software DefinedDewRoofFogAndC
-[7] - Ahmed-Kannan2021_Article_SecureEndToEndCommunicationsAn
-[8] - An Efficient Forensics Architecture in Software-Defined Networking-IoT Using Blockchain Technology
-[9] - An Intelligent Communication Warning Vulnerability Detection Algorithm Based on IoT Technology
-[10] - An Intelligent IoT-Based System Design for Controlling and Monitoring Greenhouse Temperature
-[11] - An Intelligent System for Video Surveillance in IoT Environments
-[12] - An IoT Unified Access Platform for Heterogeneity Sensing Devices Based on Edge Computing
-[13] - An IoT-Based Traceability System for Greenhouse Seedling Crops
-[14] - An IoT-Enabled Stroke Rehabilitation System Based on Smart Wearable Armband and Machine Learning
-[15] - An Ultra Low Power Personalizable Wrist Worn ECG Monitor Integrated With IoT Infrastructure
-
-[16] - Application of the Internet of Things through a Network of Wireless Sensors in a Coffee Crop for Monitoring and Control its Environmental Variables
-[17] - Authentication of Remote IoT Users Based on Deeper Gait Analysis of Sensor Data
-[18] - Big Data Management and Analytics Metamodel for IoT-Enabled Smart Building
-[19] - Blockchain technology in IoT systems current trends, methodology
-[20] - Blockchain-Based Transaction Validation Protocol for a Secure Distributed IoT Network
-[21] - Capturing-The-Invisible (CTI) Behavior-Based Attacks Recognition in IoT-Oriented Industrial Control Systems
-[22] - Ciphertext-Policy Hierarchical Attribute-Based Encryption Against Key-Delegation Abuse for IoT-Connected Healthcare
-[23] - Collaboration IoT-Based RBAC with Trust Evaluation Algorithm Model
-[24] - Data-Driven Logical Topology Inference for Managing Safety and Re-Identification of Patients Through Cameras IoT
-[25] - Design of an Internet of Things Environment Based on a Photovoltaic Panel Controller for the Massive Use of Solar Electric Energy in Urban Areas
-[26] - Dynamic Multilevel Workflow Management concept for industrial IoT system
-[27] - Ecological Compensation Method for Soil Polluted by Heavy Metals Based on Internet of Things
-[28] - Edge-Cloud Computing for IoT Data Analytics, embedding intelligence in the edge with deep learning
-[29] - Efficient data management techniques based
-[30] - Enabling IoT Ecosystems through Platform Interoperability
-
-[31] - Enabling IoT interoperability through opportunistic smartphone-based mobile gateway
-[32] - Energy Management Considering energy storage and demand response for smart energy hub in IoT
-[33] - Energy-Saving and Management of Telecom Operators Remote Computer Rooms Using IoT Technology
-[34] - Enhancing Cyber Security in Modern Internet of
-[35] - Evaluation of QoS in RF Li-Fi hybrid networks on 5th generation environments
-[36] - 
-[37] - 
-[38] - 
-[39] - 
-[40] - 
-[41] - 
-[42] - 
-[43] - 
-[44] - 
-[45] - 
-[46] - 
-[47] - 
-[48] - 
-[49] - 
-[50] - 
+[] A Decoupled Learning Strategy for Massive Access optimization in cellular IoT networks.pdf
+[] A Review on Machine Learning and Deep Learning Perspectives of IDS.pdf
+[] A Survey on Architecture, Protocols and Challenges in IoT.pdf
+[] A Survey on Internet of Things Architecture, enabling technologies, security andprivacy and applications.pdf
+[] A Three Layered Decentralized IoT Biometric Architecture for City Lockdown During COVID-19 Outbreak.pdf
+[] Ahammad2021 Article Software Defined DewRoof FogAndC.
+[] Ahmed-Kannan2021_Article_SecureEndToEndCommunicationsAn.pdf
+[] An Efficient Forensics Architecture in Software-Defined Networking-IoT Using Blockchain Technology.pdf
+[] An Intelligent Communication Warning Vulnerability Detection Algorithm Based on IoT Technology.pdf
+[] An Intelligent IoT-Based System Design for Controlling and Monitoring Greenhouse Temperature.pdf
+[] An Intelligent System for Video Surveillance in IoT Environments.pdf
+[] An IoT Unified Access Platform for Heterogeneity Sensing Devices Based on Edge Computing.pdf
+[] An IoT-Based Traceability System for Greenhouse Seedling Crops.pdf
+[] An IoT-Enabled Stroke Rehabilitation System Based on Smart Wearable Armband and Machine Learning.pdf
+[] An Ultra Low Power Personalizable Wrist Worn ECG Monitor Integrated With IoT Infrastructure.pdf
+[] Application of the Internet of Things through a Network of Wireless Sensors in a Coffee Crop for Monitoring and Control its Environmental Variables.pdf
+[] Authentication of Remote IoT Users Based on Deeper Gait Analysis of Sensor Data.pdf
+[] Big Data Management and Analytics Metamodel for IoT-Enabled Smart Buildings.pdf
+[] Blockchain technology in IoT systems current trends, methodology.pdf
+[] Blockchain-Based Transaction Validation Protocol for a Secure Distributed IoT Network.pdf
+[] Capturing-The-Invisible (CTI) Behavior-Based Attacks Recognition in IoT-Oriented Industrial Control Systems.pdf
+[] Ciphertext-Policy Hierarchical Attribute-Based Encryption Against Key-Delegation Abuse for IoT-Connected Healthcare System.pdf
+[] Collaboration IoT-Based RBAC with Trust Evaluation Algorithm Model.pdf
+[] Data-Driven Logical Topology Inference for Managing Safety and Re-Identification of Patients Through Multi-Cameras IoT.pdf
+[] Design of an Internet of Things Environment Based on a Photovoltaic Panel Controller for the Massive Use of Solar Electric Energy in Urban Areas.pdf
+[] Dynamic Multilevel Workflow Management concept for industrial IoT system.pdf
+[] Ecological Compensation Method for Soil Polluted by Heavy Metals Based on Internet of Things.pdf
+[] Edge-Cloud Computing for IoT Data Analytics, embedding intelligence in the edge with deep learning.pdf
+[] Efficient data management techniques based.pdf
+[] Enabling IoT Ecosystems through Platform Interoperability.pdf
+[] Enabling IoT interoperability through opportunistic smartphone-based mobile gateway.pdf
+[] Energy Management Considering energy storage and demand response for smart energy hub in IoT.pdf
+[] Energy-Saving and Management of Telecom Operators Remote Computer Rooms Using IoT Technology.pdf
+[] Enhancing Cyber Security in Modern Internet of.pdf
+[] Evaluation of QoS in RF Li-Fi hybrid networks on 5th generation environments.pdf
+[] Face Occlusion Recognition With Deep Learning in Security Framework for the IoT.pdf
+[] Fair Configuration Scheme for random access in NB-IoT with multiple coverage enhancement levels.pdf
+[] Fault-Tolerant mHealth Framework in the Context of IoT-Based Real-Time Wearable Health Data Sensors.pdf
+[] Fingerprint Recognition Strategies Based on a Fuzzy Commitment for Cloud-Assisted IoT A Minutiae-Based Sector Coding Approach.pdf
+[] FishTalk An IoT-Based Mini Aquarium System.pdf
+[] Industrial IoT based Condition Monitoring for wind energy conversion system.pdf
+[] Intelligent Design of Electrical Training Room in Higher Vocational colleges based on internet of things technology.pdf
+[] Internet of Things (IoT), Applications and Challenges.pdf
+[] Internet-of-Things (IoT)-Based Smart Agriculture Toward Making the Fields Talk.pdf
+[] IoT Based Smart Garbage and Waste collection bin.pdf
+[] IoT service classification and clustering for integration of Iot.pdf
+[] IoT_based_smart_security_and_home_automation_system.pdf
+[] IoT-Assisted ECG Monitoring Framework With Secure Data Transmission for Health Care Applications.pdf
+[] IoT-Based Library Automation and Monitoring system Developing an Implementation framework of Implementation.pdf
+[] IoT-Based Smart Shopping Cart Using Radio Frequency Identification.pdf
+[] IoT-commerce - opportunities for customers through an.pdf
+[] IoT-Guard Event-Driven Fog-Based Video Surveillance System for Real-Time Security Management.pdf
+[] IoT-Linked Integrated NFC and Dual Band UHF 2.45 GHz RFID Reader Antenna Scheme.pdf
+[] IoTmeets BPM a bidirectional communication architecture.pdf
+[] IoT-RTP and IoT-RTCP Adaptive Protocols for Multimedia Transmission over Internet of Things Environments.pdf
+[] IP Remote Control System for a Lighting Layout.pdf
+[] Jamming Mitigation via Hierarchical Security Game for IoT Communications.pdf
+[] Joint Coding and Adaptive Image Transmission Scheme Based on DP-LDPC Codes for IoT Scenarios.pdf
+[] Joint Multioperator Virtual Network Sharing and Caching in Energy Harvesting-Aided Environmental Internet of Things.pdf
+[] Kandasamy2020_Article_IoTCyberRiskAHolisticAnalysisO.pdf
+[] Low-Overhead Remote User Authentication Protocol for IoT Based on a Fuzzy Extractor and Feature Extraction.pdf
+[] M2M system for efficient water consumption in sanitary services based on intelligent environment.pdf
+[] Machine learning and data analytics for the IoT.pdf
+[] Memory Leak Detection in IoT Program Based on an Abstract Memory Model SeqMM.pdf
+[] Miniature Patch and Slot Microstrip Arrays for IoT and ISM Band Applications.pdf
+[] Modeling IoT Equipment With Graph Neural Networks.pdf
+[] Mukherjee2019_Article_IoT-F2NAnEnergy-efficientArchi.pdf
+[] Multi-Objective Optimization of Green Small Cell Allocation for IoT Applications in Smart City
+[] Non-Interactive ID-Based Proxy Re-Signature Scheme for IoT Based on Mobile Edge Computing
+[] One IoT an IoT protocol and framework for OEMs to make
+[] Open IoT Ecosystem for Sporting Event Management
+[] Outsourced Decentralized Multi-authority Attribute Based signature and its application in IOT
+[] Packet-Based Preamble Design for Random Access in Massive IoT Communication Systems
+[] Parallel Offloading in Green and Sustainable Mobile Edge Computing for Delay-Constrained IoT System
+[] Practical Guide to Smart Factory Transition Using IoT, Big Data and Edge Analytics
+[] Privacy and Energy Co-Aware Data Aggregation Computation Offloading for Fog-Assisted IoT Networks
+[] Prototype of automated irrigation system improves the yield of potatoes
+[] Real-Virtual World Device Synchronization in a Cloud-Enabled Social Virtual Reality IoT Network
+[] Research on Data Sharing Architecture for Ecological Monitoring Using Iot Streaming Data
+[] Research_on_the_Intelligent_Information_System_for_the_Multimedia_Teaching_Equipment_Management
+[] Scalable and Secure Big Data IoT System Based on Multifactor Authentication and Lightweight Cryptography
+[] Script IoT A Script Framework for and Internet of things application
+[] SDN and Virtualization Solutions for the Internet of Things A Survey
+[] SDQ-6WI Software Defined Quadcopter-Six Wheeled IoT Sensor Architecture for Future Wind Turbine Placement
+[] Secure IoT framework and 2D architecture
+[] Security and Privacy in IoT A Survey
+[] Semantic interoperability in the Internet of Things_ An overview from the INTER-IoT perspective
+[] Semantic technologies for the IoT an Inter IoT perspective
+[] Semantic Web meets Internet of Things (IoT) and Web of Things (WoT)
+[] Sensors and Control Interface Methods Based on Triboelectric Nanogenerator in IoT Applications
+[] Sentinel Based Malicious Relay Detection in Wireless IoT Networks
+[] SGF-MD Behavior Rule Specification-based distributed misbehavior detection
+[] Short Paper IoT Challenges, Projects, Architectures
+[] Smart Home-based IoT for Real-time and Secure Remote Health
+[] Steinacker2019_Article_ArchitekturenSicherheitImInter
+[] Technical Issues on Cognitive Radio-Based Internet of Things Systems A Survey
+[] Temperature Compensation of Crystal References in NB-IoT Modems
+[] THE (Temperature Heterogeneity Energy) Aware Routing Protocol for IoT Health Application
