@@ -14,26 +14,27 @@
 [14] - An IoT-Enabled Stroke Rehabilitation System Based on Smart Wearable Armband and Machine Learning
 [15] - An Ultra Low Power Personalizable Wrist Worn ECG Monitor Integrated With IoT Infrastructure
 
-[16] - Application of the Internet of Things through a Network of Wireless Sensors in a Coffee Crop for Monitoring and    Control its Environmental Variables
+[16] - Application of the Internet of Things through a Network of Wireless Sensors in a Coffee Crop for              Monitoring and Control its Environmental Variables
 [17] - Authentication of Remote IoT Users Based on Deeper Gait Analysis of Sensor Data
 [18] - Big Data Management and Analytics Metamodel for IoT-Enabled Smart Building
 [19] - Blockchain technology in IoT systems current trends, methodology
 [20] - Blockchain-Based Transaction Validation Protocol for a Secure Distributed IoT Network
-[21] - Capturing-The-Invisible (CTI) Behavior-Based Attacks Recognition in IoT-Oriented Industrial Control Systems
-[22] - Ciphertext-Policy Hierarchical Attribute-Based Encryption Against Key-Delegation Abuse for IoT-Connected Healthcare 
+[21] - Capturing-The-Invisible (CTI) Behavior-Based Attacks Recognition in IoT-Oriented Industrial Control            Systems
+[22] - Ciphertext-Policy Hierarchical Attribute-Based Encryption Against Key-Delegation Abuse for IoT-                Connected Healthcare
 [23] - Collaboration IoT-Based RBAC with Trust Evaluation Algorithm Model
-[24] - Data-Driven Logical Topology Inference for Managing Safety and Re-Identification of Patients Through Cameras IoT
-[25] - Design of an Internet of Things Environment Based on a Photovoltaic Panel Controller for the Massive Use of Solar Electric Energy in Urban Areas
-[26] - 
-[27] - 
-[28] - 
-[29] - 
-[30] - 
-[31] - 
-[32] - 
-[33] - 
-[34] - 
-[35] - 
+[24] - Data-Driven Logical Topology Inference for Managing Safety and Re-Identification of Patients Through          Cameras IoT
+[25] - Design of an Internet of Things Environment Based on a Photovoltaic Panel Controller for the Massive          Use of Solar Electric Energy in Urban Areas
+[26] - Dynamic Multilevel Workflow Management concept for industrial IoT system
+[27] - Ecological Compensation Method for Soil Polluted by Heavy Metals Based on Internet of Things
+[28] - Edge-Cloud Computing for IoT Data Analytics, embedding intelligence in the edge with deep learning
+[29] - Efficient data management techniques based
+[30] - Enabling IoT Ecosystems through Platform Interoperability
+
+[31] - Enabling IoT interoperability through opportunistic smartphone-based mobile gateway
+[32] - Energy Management Considering energy storage and demand response for smart energy hub in IoT
+[33] - Energy-Saving and Management of Telecom Operators Remote Computer Rooms Using IoT Technology
+[34] - Enhancing Cyber Security in Modern Internet of
+[35] - Evaluation of QoS in RF Li-Fi hybrid networks on 5th generation environments
 [36] - 
 [37] - 
 [38] - 
